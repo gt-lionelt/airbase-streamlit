@@ -20,6 +20,7 @@ streamlit run main.py
 ## Deployment
 
 Make changes to the code on main branch to trigger Github Actions.
+Demo deployment
 
 ### App Password
 
